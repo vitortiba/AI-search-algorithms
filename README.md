@@ -1,4 +1,4 @@
-# Uninformed search algorithms - Artificial Inteligence
+# Uninformed search algorithms applied to sliding tiles puzzle - Artificial Inteligence
 *Using Ruby*
 
 - Length Search (Beadth First Search).
